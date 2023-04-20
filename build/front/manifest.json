@@ -1,0 +1,12 @@
+{
+  "build/front/app.css": "/build/front/app.css",
+  "build/front/app.js": "/build/front/app.js",
+  "build/front/runtime.js": "/build/front/runtime.js",
+  "build/front/images/portrait.png": "/build/front/images/portrait.png",
+  "build/front/images/favicon.ico": "/build/front/images/favicon.ico",
+  "build/front/images/cc-by-sa.svg": "/build/front/images/cc-by-sa.svg",
+  "build/front/images/symfony.png": "/build/front/images/symfony.png",
+  "build/front/images/symfony-svg.svg": "/build/front/images/symfony-svg.svg",
+  "build/front/images/php-logo.svg": "/build/front/images/php-logo.svg",
+  "build/front/images/php-svg.svg": "/build/front/images/php-svg.svg"
+}
